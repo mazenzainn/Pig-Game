@@ -1,6 +1,6 @@
 <h1 align="center">Pig Dice Game</h1>
 
-### <h3 align="center"> [Live]([https://kokenydaniel.github.io/Pig-game/](https://pig-game-mazen.netlify.app/))</h3>
+### <h3 align="center"> [Live](https://pig-game-mazen.netlify.app/)</h3>
 
 ## About The Project
 
